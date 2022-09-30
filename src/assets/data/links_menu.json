@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Home",
+        "url": "/"
+    },
+    {
+        "title": "Programs",
+        "url": "/programs"
+    },
+    {
+        "title": "Opportunities",
+        "url": "/opportunities"
+    },
+    {
+        "title": "Resources",
+        "url": "/resources"
+    }
+]
