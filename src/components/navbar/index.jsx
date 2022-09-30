@@ -13,7 +13,7 @@ export default function Navbar(){
             <div className="h-[10vh] container flex flex-wrap justify-between items-center mx-auto">
                 <Link href="/">
                     <a className="flex">
-                        <Image src="/logo.svg" width="33" height="32" className="mr-3 h-6 sm:h-9" alt="Octobear Logo" />
+                        <Image src="/LOGO.svg" width="33" height="32" className="mr-3 h-6 sm:h-9" alt="Octobear Logo" />
                         <span className="self-center text-xl font-semibold whitespace-nowrap dark:text-white">Octobear Hub</span>
                     </a>
                 </Link>
