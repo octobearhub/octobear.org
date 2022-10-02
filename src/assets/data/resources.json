@@ -18,5 +18,32 @@
             "design",
             "ilustration"
         ]
+    },
+    {
+        "title": "Color Palettes",
+        "description": "Color palettes for designing and prototyping for any project. Able to copy hex code of the colors easily.",
+        "url": "https://flatuicolors.com/",
+        "tags": [
+            "design",
+            "illustration"
+        ]
+    },
+    {
+        "title": "Chart Generator for ReactJs projects", 
+        "description": "Easy installation and good for building interactive visualizations in react.",
+        "url": "https://www.npmjs.com/package/react-apexcharts",
+        "tags": [
+            "charts",
+            "visualizations"
+        ]
+    },
+    {
+        "title": "Build forms in your project", 
+        "description": "Build your forms easily with formspree. You can just set your form’s action to their endpoint and write no server code, or deploy your forms with CI/CD",
+        "url": " https://formspree.io/",
+        "tags": [
+            "forms",
+            "API"
+        ]
     }
 ]
