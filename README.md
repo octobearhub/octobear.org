@@ -48,7 +48,6 @@ npm run dev
 - Fork the Repo and create a Branch for any Issue that you are working upon.
 - Create a Pull Request which will be promptly reviewed and suggestions would be added if necessary.
 - Add Screenshots to help us know what this Program/Fellowship is all about.
-- Do styling changes in the respective **Sass** file.
 
 
 ## ✨ Project Maintainers
