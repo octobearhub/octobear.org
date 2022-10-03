@@ -20,6 +20,16 @@
         ]
     },
     {
+        "title": "Doodle Ipsum",
+        "description": "Illustration placeholders for developers",
+        "image": "https://user-images.githubusercontent.com/43012757/193572120-3a0e57a9-4561-4e7d-85b0-048d10bb396c.png",
+        "url": "https://doodleipsum.com/",
+        "tags": [
+            "design",
+            "illustration"
+        ]
+    },
+    {
         "title": "Color Palettes",
         "description": "Color palettes for designing and prototyping for any project. Able to copy hex code of the colors easily.",
         "url": "https://flatuicolors.com/",
