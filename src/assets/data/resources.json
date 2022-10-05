@@ -64,5 +64,15 @@
             "icons",
             "design"
         ]
+    },
+    {
+        "title": "Add tailwind Gradients into your project.",
+        "description": "Easy tailwind gradient code generator which can be used in Front end project.",
+        "url": "https://znoycolors.netlify.app/",
+        "tags": [
+            "tailwind",
+            "styling",
+            "design"
+        ]
     }
 ]
