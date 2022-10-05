@@ -66,6 +66,15 @@
         ]
     },
     {
+        "title": "Lorem Picsum",
+        "description": "A library for placeholder images for your objects.",
+        "url": "https://picsum.photos/images",
+        "tags": [
+            "images",
+            "design"
+        ]
+    },
+    {
         "title": "Add tailwind Gradients into your project.",
         "description": "Easy tailwind gradient code generator which can be used in Front end project.",
         "url": "https://znoycolors.netlify.app/",
