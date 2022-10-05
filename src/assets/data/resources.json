@@ -63,5 +63,11 @@
     "description": "A collective list of free APIs for use in software and web development",
     "url": "https://github.com/public-apis/public-apis",
     "tags": ["API"]
+  },
+  {
+    "title": "i18next",
+    "description": "Internationalization framework to translate your JavaScript app",
+    "url": "https://www.i18next.com/",
+    "tags": ["translation"]
   }
 ]
