@@ -64,5 +64,14 @@
             "icons",
             "design"
         ]
+    },
+    {
+        "title": "Lorem Picsum",
+        "description": "A library for placeholder images for your objects.",
+        "url": "https://picsum.photos/images",
+        "tags": [
+            "images",
+            "design"
+        ]
     }
 ]
