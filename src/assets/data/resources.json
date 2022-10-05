@@ -66,6 +66,24 @@
         ]
     },
     {
+        "title": "Brackets",
+        "description": "Brackets is a modern text editor that makes it easy to design in the browser. It's crafted from the ground up for web designers and front-end developers.",
+        "url": "https://brackets.io",
+        "tags": [
+            "editor",
+            "developer"
+        ]
+    },
+    {
+        "title": "Bootstrap",
+        "description": "Powerful, extensible, and feature-packed frontend toolkit. Build and customize with Sass, utilize prebuilt grid system and components, and bring projects to life with powerful JavaScript plugins.",
+        "url": "https://getbootstrap.com",
+        "tags": [
+            "tools",
+            "developer"
+        ]
+    },
+    {
         "title": "Lorem Picsum",
         "description": "A library for placeholder images for your objects.",
         "url": "https://picsum.photos/images",
