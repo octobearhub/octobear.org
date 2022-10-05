@@ -69,5 +69,11 @@
     "description": "Internationalization framework to translate your JavaScript app",
     "url": "https://www.i18next.com/",
     "tags": ["translation"]
+  },
+  {
+    "title": "Framer",
+    "description": "React library to create stunning animations easily.",
+    "url": "https://www.framer.com/motion/",
+    "tags": ["design", "illustration", "SVG"]
   }
 ]
