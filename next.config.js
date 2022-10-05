@@ -4,8 +4,7 @@ const nextConfig = {
   swcMinify: true,
   images: {
     dangerouslyAllowSVG: true,
-    domains: ['user-images.githubusercontent.com', 'api.producthunt.com', 'www.shapedivider.app',
-      'haikei.app'
+    domains: ['user-images.githubusercontent.com', 'api.producthunt.com'
       ]
   }
 }
