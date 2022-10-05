@@ -64,7 +64,7 @@
             "icons",
             "design"
         ]
-    }
+    },
     {
         "title": "Brackets",
         "description": "Brackets is a modern text editor that makes it easy to design in the browser. It's crafted from the ground up for web designers and front-end developers.",
@@ -73,7 +73,7 @@
             "editor",
             "developer"
         ]
-    }
+    },
     {
         "title": "Bootstrap",
         "description": "Powerful, extensible, and feature-packed frontend toolkit. Build and customize with Sass, utilize prebuilt grid system and components, and bring projects to life with powerful JavaScript plugins.",
@@ -82,5 +82,5 @@
             "tools",
             "developer"
         ]
-    }
+    },
 ]
