@@ -50,5 +50,12 @@
     "description": "Free tool to create and export beautiful SVG dividers.",
     "url": "https://www.shapedivider.app/",
     "tags": ["design", "illustration", "SVG"]
+  },
+  {
+    "title": "haikei",
+    "image": "https://haikei.app/_next/static/images/album-cover-aac34cc7c20b657da64b14b6f0623b46.png",
+    "description": "Generate unique waves, blobs, symbols etc. in SVG format",
+    "url": "https://app.haikei.app/",
+    "tags": ["design", "illustration", "SVG"]
   }
 ]
