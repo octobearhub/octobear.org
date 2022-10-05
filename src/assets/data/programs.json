@@ -1,9 +1,15 @@
 [
-    {
-        "title": "Hacktoberfest 2022",
-        "image": "https://user-images.githubusercontent.com/43012757/193366195-c23979e1-60fd-4195-95e3-b0372f8a3c75.png",
-        "description": "Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio. Hacktoberfest is open to everyone in our global community!",
-        "url": "https://hacktoberfest.digitalocean.com/",
-        "end_date": "2022-10-31"
-    }
+  {
+    "title": "Hacktoberfest 2022",
+    "image": "https://user-images.githubusercontent.com/43012757/193366195-c23979e1-60fd-4195-95e3-b0372f8a3c75.png",
+    "description": "Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio. Hacktoberfest is open to everyone in our global community!",
+    "url": "https://hacktoberfest.digitalocean.com/",
+    "end_date": "2022-10-31"
+  },
+  {
+    "title": "Microsoft Ignite",
+    "description": "Latest innovations, learn, level up your skillset and create connections frm around the world. October 12 – 14 at 9:00 AM PDT",
+    "url": "https://ignite.microsoft.com/",
+    "end_date": "2022-10-14"
+  }
 ]
