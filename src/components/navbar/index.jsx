@@ -1,6 +1,5 @@
 /* eslint-disable @next/next/no-html-link-for-pages */
 import React, { useEffect, useState } from "react"
-import Link from "next/link"
 import Image from "next/future/image"
 import { FaWindowClose, FaMoon, FaSun } from "react-icons/fa"
 import { useRouter } from "next/router"
