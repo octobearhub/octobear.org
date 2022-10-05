@@ -57,5 +57,11 @@
     "description": "Generate unique waves, blobs, symbols etc. in SVG format",
     "url": "https://app.haikei.app/",
     "tags": ["design", "illustration", "SVG"]
+  },
+  {
+    "title": "Public APIs",
+    "description": "A collective list of free APIs for use in software and web development",
+    "url": "https://github.com/public-apis/public-apis",
+    "tags": ["API"]
   }
 ]
