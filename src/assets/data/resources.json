@@ -55,5 +55,14 @@
             "forms",
             "API"
         ]
+    },
+    {
+        "title": "icones",
+        "description": "A library for icons of all types. You can even copy an svg code for each image.",
+        "url": "https://icones.js.org/",
+        "tags": [
+            "icons",
+            "design"
+        ]
     }
 ]
