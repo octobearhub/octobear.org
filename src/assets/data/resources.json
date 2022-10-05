@@ -120,5 +120,16 @@
             "styling",
             "design"
         ]
+    },
+    {
+        "title": "Google Analytics",
+        "description": "An easy and free way to track the analytics of your project or website.",
+        "url": "https://analytics.google.com/analytics/web/#/",
+        "tags": [
+            "analytics",
+            "visitors",
+            "metrics",
+            "tracker"
+        ]
     }
 ]
