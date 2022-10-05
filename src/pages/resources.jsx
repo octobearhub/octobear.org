@@ -1,5 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
+import Tag from "../components/tag";
+
 import resources from "../assets/data/resources.json";
 
 const TAGS_LIST = [
@@ -13,6 +15,11 @@ export default function Resources() {
             <div className="max-w-screen-md mb-8 lg:mb-16">
                 <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">Resources</h2>
                 <p className="text-gray-500 sm:text-xl dark:text-gray-400">A collection of all the tools that are required in web development made by the community to ease the process of web development.</p>
+            <div className="mt-3 flex flex-wrap gap-2">
+            {TAGS_LIST.map((tag) => (
+              <Tag key={tag} name={tag} />
+            ))}
+          </div>
             </div>
             <div className="space-y-8 md:grid md:grid-cols-2 lg:grid-cols-3 md:gap-12 md:space-y-0">
                 {
