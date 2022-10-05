@@ -66,6 +66,15 @@
         ]
     },
     {
+        "title": "HTML5 UP!",
+        "description": "A free site for responsive and customizable HTML5 site templates",
+        "url": "https://html5up.net/",
+        "tags": [
+            "design",
+            "template"
+        ]
+    },
+    {
         "title": "Brackets",
         "description": "Brackets is a modern text editor that makes it easy to design in the browser. It's crafted from the ground up for web designers and front-end developers.",
         "url": "https://brackets.io",
