@@ -66,6 +66,15 @@
         ]
     },
     {
+        "title": "Chrome DevTools",
+        "image": "https://wd.imgix.net/image/QMjXarRXcMarxQddwrEdPvHVM242/uyy9OtWHTcxH5sK5VuRA.png?auto=format&w=528",
+        "description": "Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser. ... Get started with Google Chrome's built-in web developer tools.",
+        "url": "https://developer.chrome.com/",
+        "tags": [
+            "debugger",
+            "content/resources"
+    }, 
+    {
         "title": "HTML5 UP!",
         "description": "A free site for responsive and customizable HTML5 site templates",
         "url": "https://html5up.net/",
