@@ -1,3 +1,6 @@
+import Link from "next/link"
+import React from "react"
+
 export default function Footer() {
     return (
         <footer className="sticky top-[100vh] p-4 h-[20vh] bg-white md:p-8 lg:p-10 dark:bg-gray-800">
@@ -6,8 +9,10 @@ export default function Footer() {
                     Our Community of Open Source projects.
                 </p>
                 <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">
-                    © { new Date().getFullYear() + " "} 
-                    <a href="#" className="hover:underline">Octobear Hub</a>. 
+                    © {`${new Date().getFullYear()} `}
+                    <Link href="/" className="hover:underline">
+                        Octobear Hub.
+                    </Link>{" "}
                     All Rights Reserved.
                 </span>
             </div>
