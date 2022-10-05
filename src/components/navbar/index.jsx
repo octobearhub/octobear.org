@@ -116,12 +116,12 @@ export default function Navbar() {
                                 className="flex items-center"
                                 key={Math.random(index) + Math.random(8)}
                             >
-                                <Link
+                                <a
                                     className="block py-2 pr-4 pl-3  text-gray-900 bg-blue-700 rounded md:bg-transparent md:p-0 dark:text-white"
                                     href={link.url}
                                 >
                                     {link.title}
-                                </Link>
+                                </a>
                             </li>
                         ))}
                         <li className="pr-4">

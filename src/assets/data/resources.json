@@ -81,53 +81,46 @@
         "url": "https://znoycolors.netlify.app/",
         "tags": ["tailwind", "styling", "design"]
     },
-      {
-    "title": "Shape Divider",
-    "image": "https://www.shapedivider.app/img/page_section_example.a3960bf3.png",
-    "description": "Free tool to create and export beautiful SVG dividers.",
-    "url": "https://www.shapedivider.app/",
-    "tags": ["design", "illustration", "SVG"]
-  },
-  {
-    "title": "haikei",
-    "image": "https://haikei.app/_next/static/images/album-cover-aac34cc7c20b657da64b14b6f0623b46.png",
-    "description": "Generate unique waves, blobs, symbols etc. in SVG format",
-    "url": "https://app.haikei.app/",
-    "tags": ["design", "illustration", "SVG"]
-  },
-  {
-    "title": "Public APIs",
-    "description": "A collective list of free APIs for use in software and web development",
-    "url": "https://github.com/public-apis/public-apis",
-    "tags": ["API"]
-  },
-  {
-    "title": "i18next",
-    "description": "Internationalization framework to translate your JavaScript app",
-    "url": "https://www.i18next.com/",
-    "tags": ["translation"]
-  },
-  {
-    "title": "Framer",
-    "description": "React library to create stunning animations easily.",
-    "url": "https://www.framer.com/motion/",
-    "tags": ["animations, design, css, react"]
-  },
-  {
-    "title": "Oh Shit, Git!?!",
-    "description": "Some useful Git commands that can save your life",
-    "url": "https://ohshitgit.com/",
-    "tags": ["git", "github"]
-  },
+    {
+        "title": "Shape Divider",
+        "description": "Free tool to create and export beautiful SVG dividers.",
+        "url": "https://www.shapedivider.app/",
+        "tags": ["design", "illustration", "SVG"]
+    },
+    {
+        "title": "haikei",
+        "description": "Generate unique waves, blobs, symbols etc. in SVG format",
+        "url": "https://app.haikei.app/",
+        "tags": ["design", "illustration", "SVG"]
+    },
+    {
+        "title": "Public APIs",
+        "description": "A collective list of free APIs for use in software and web development",
+        "url": "https://github.com/public-apis/public-apis",
+        "tags": ["API"]
+    },
+    {
+        "title": "i18next",
+        "description": "Internationalization framework to translate your JavaScript app",
+        "url": "https://www.i18next.com/",
+        "tags": ["translation"]
+    },
+    {
+        "title": "Framer",
+        "description": "React library to create stunning animations easily.",
+        "url": "https://www.framer.com/motion/",
+        "tags": ["animations, design, css, react"]
+    },
+    {
+        "title": "Oh Shit, Git!?!",
+        "description": "Some useful Git commands that can save your life",
+        "url": "https://ohshitgit.com/",
+        "tags": ["git", "github"]
+    },
     {
         "title": "Google Analytics",
         "description": "An easy and free way to track the analytics of your project or website.",
         "url": "https://analytics.google.com/analytics/web/#/",
-        "tags": [
-            "analytics",
-            "visitors",
-            "metrics",
-            "tracker"
-        ]
-    },
+        "tags": ["analytics", "visitors", "metrics", "tracker"]
+    }
 ]
