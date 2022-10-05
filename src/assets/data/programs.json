@@ -6,4 +6,11 @@
         "url": "https://hacktoberfest.digitalocean.com/",
         "end_date": "2022-10-31"
     }
+    {
+    "title":"Diwali 2022",
+    "image":"https://d.newsweek.com/en/full/1669799/diwali-celebrations.jpg",
+    "description":"Diwali is an Indian festival that involves community gathering is celebrated by decorating houses and surroundings with lights and exchanging sweets and well wishes with the loved ones.",
+    "url":"https://www.diwalifestival.org/",
+    "end_date":"2022-10-26",
+    }
 ]
