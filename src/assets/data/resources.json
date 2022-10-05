@@ -64,5 +64,14 @@
             "icons",
             "design"
         ]
-    }
+    },
+    {
+        "title": "HTML5 UP!",
+        "description": "A free site for responsive and customizable HTML5 site templates",
+        "url": "https://html5up.net/",
+        "tags": [
+            "design",
+            "template"
+        ]
+    },
 ]
