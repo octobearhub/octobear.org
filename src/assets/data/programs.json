@@ -1,11 +1,18 @@
 [
-  {
-    "title": "Hacktoberfest 2022",
-    "image": "https://user-images.githubusercontent.com/43012757/193366195-c23979e1-60fd-4195-95e3-b0372f8a3c75.png",
-    "description": "Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio. Hacktoberfest is open to everyone in our global community!",
-    "url": "https://hacktoberfest.digitalocean.com/",
-    "end_date": "2022-10-31"
-  },
+    {
+        "title": "Hacktoberfest 2022",
+        "image": "https://user-images.githubusercontent.com/43012757/193366195-c23979e1-60fd-4195-95e3-b0372f8a3c75.png",
+        "description": "Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio. Hacktoberfest is open to everyone in our global community!",
+        "url": "https://hacktoberfest.digitalocean.com/",
+        "end_date": "2022-10-31"
+    },
+    {
+        "title": "Outreachy 2023",
+        "image": "https://user-images.githubusercontent.com/78233115/194045366-942e7379-92ba-4625-9048-939e4bba434c.png",
+        "description": "The Outreachy program is a really great program for students that aims to support diversity in open source and open science. Outreachy provides internships to people subject to systemic bias and impacted by underrepresentation in the technical industry where they are living.",
+        "url": "https://www.outreachy.org/",
+        "end_date": "Application will open in early February-2023 and will end in late February-2023"
+    },
   {
     "title": "Microsoft Ignite",
     "description": "Latest innovations, learn, level up your skillset and create connections frm around the world. October 12 – 14 at 9:00 AM PDT",
@@ -17,5 +24,5 @@
     "description": "Free three-day .NET virtual developer conference with major releases of the .NET Development platform. November 8 – 10 at 8:00 AM PDT",
     "url": "https://www.dotnetconf.net/",
     "end_date": "2022-11-10"
-  }
+  },
 ]
