@@ -56,7 +56,10 @@ npm run dev
 <tr>
 <td align="center"><a href="https://github.com/clebsonf"><img src="https://avatars.githubusercontent.com/u/43012757?v=4" width=150px height=150px /></a></br> <h4 style="color:red;">Clebson Augusto</h4>
 <a href="https://www.linkedin.com/in/fclebson/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png" width="32px" height="32px"></a>
+<td align="center"><a href="https://github.com/TenTraicion"><img src="https://avatars.githubusercontent.com/u/103281314?v=4" width=150px height=150px /></a></br> <h4 style="color:red;">TenTraicion</h4>
 </tr>
+</tr>
+
 </table>
 
 
