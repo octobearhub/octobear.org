@@ -74,6 +74,12 @@
     "title": "Framer",
     "description": "React library to create stunning animations easily.",
     "url": "https://www.framer.com/motion/",
-    "tags": ["design", "illustration", "SVG"]
+    "tags": ["animations, design, css, react"]
+  },
+  {
+    "title": "Oh Shit, Git!?!",
+    "description": "Some useful Git commands that can save your life",
+    "url": "https://ohshitgit.com/",
+    "tags": ["git", "github"]
   }
 ]
