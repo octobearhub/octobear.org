@@ -2,6 +2,10 @@ import Image from "next/image";
 import Link from "next/link";
 import resources from "../assets/data/resources.json";
 
+const TAGS_LIST = [
+  ...new Set(resources.map((resource) => resource.tags).flat()),
+];
+
 export default function Resources() {
     return (
         <section className="bg-white mb-auto flex-grow dark:bg-gray-900">
