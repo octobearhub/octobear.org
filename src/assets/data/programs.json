@@ -7,6 +7,13 @@
         "end_date": "2022-10-31"
     },
     {
+        "title": "MLH Fellowship 2022",
+        "image": "https://user-images.githubusercontent.com/43012757/194271876-0af4a69c-3e19-4c60-8222-b8a1610e76f8.png",
+        "description": "A fully remote, 12-week internship where participants earn a stipend and learn to collaborate on real open source projects with peers and engineers from top companies.",
+        "url": "https://fellowship.mlh.io/#programs",
+        "end_date": null
+    },
+    {
         "title": "Outreachy 2023",
         "image": "https://user-images.githubusercontent.com/78233115/194045366-942e7379-92ba-4625-9048-939e4bba434c.png",
         "description": "The Outreachy program is a really great program for students that aims to support diversity in open source and open science. Outreachy provides internships to people subject to systemic bias and impacted by underrepresentation in the technical industry where they are living.",
