@@ -43,5 +43,23 @@
         "description": "SINCE 2018 we are organizing this development-oriented conference web, with the idea that lecturers from Spanish speaking can expose about new technologies and transmit their community experience. Starting November 18.",
         "url": "https://webconf.tech/",
         "end_date": "2022-11-18"
+    },
+    {
+        "title": "Web Summit",
+        "description": "Politico said we run “the world’s premier tech conference”, the Atlantic that Web Summit is “where the future goes to be born”, and Reuters that we assemble “the biggest names in tech and business”.",
+        "url": "https://websummit.com/rio/",
+        "end_date": "2023-05-01"
+    },
+    {
+        "title": "SÃO PAULO TECH WEEK",
+        "description": "Através de um evento totalmente dinâmico, a SPTW será 100% online e trará uma abordagem totalmente inovadora, onde cada membro poderá gerar conexões qualificadas para os seus negócios não apenas durante a semana de palestras, mas também ao longo do ano. ",
+        "url": "https://saopaulotechweek.com.br/",
+        "end_date": "2023-05-01"
+    },
+    {
+        "title": "EXPOTEC ",
+        "description": "Considerada a maior vitrine de tecnologia da região Nordeste, a Expotec - Feira e Congresso de Tecnologia vai para sua 8ª edição este ano. Com o tema 'Internet livre, neutra e global', o evento será realizado de 23 a 25 de novembro, no Centro de Convenções de João Pessoa, com o apoio do Comitê Gestor da Internet no Brasil (CGI.br/NIC.br).",
+        "url": "https://www.expotec.org.br/2022/",
+        "end_date": "2023-05-01"
     }
 ]
