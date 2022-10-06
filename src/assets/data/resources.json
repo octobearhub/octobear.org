@@ -68,7 +68,6 @@
     {
         "title": "Prepros",
         "description": "Compiles your files, transpiles your JavaScript, reloads your browsers and makes it really easy to develop & test your websites so you can focus on making them perfect.",
-        "image": "https://prepros.io/img/icon.png",
         "url": "https://prepros.io/",
         "tags": [
             "compiler",
