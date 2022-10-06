@@ -37,5 +37,11 @@
         "description": "Through Season of Docs, Google awards grants to open source projects and organizations to hire technical writers to work on documentation projects.",
         "url": "https://developers.google.com/season-of-docs",
         "end_date": "2023-03-25"
+    },
+    {
+        "title": "WebConf Latam",
+        "description": "SINCE 2018 we are organizing this development-oriented conference web, with the idea that lecturers from Spanish speaking can expose about new technologies and transmit their community experience. Starting November 18.",
+        "url": "https://webconf.tech/",
+        "end_date": "2022-11-18"
     }
 ]
