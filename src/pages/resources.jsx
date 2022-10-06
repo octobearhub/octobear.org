@@ -68,7 +68,7 @@ export default function Resources() {
                                 </p>
                                 <div className="mb-3 flex flex-wrap gap-2">
                                     {resource.tags.map((tag) => (
-                                        <Tag key={tag} name={tag}/>
+                                        <Tag key={tag} name={tag} currentTag={currentTag} onCurrentTag={handleCurrentTag}/>
                                     ))}
                                 </div>
                                 <a
