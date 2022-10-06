@@ -1,4 +1,4 @@
-import React from "react"
+import React, { useState } from "react"
 import Image from "next/image"
 import Link from "next/link"
 import Tag from "../components/tag"
@@ -10,6 +10,12 @@ const TAGS_LIST = [
 ]
 
 export default function Resources() {
+    const [currentTag, setCurrentTag] = useState('All')
+
+    function handleCurrentTag(tag) {
+        setCurrentTag(tag)
+    }
+
     return (
         <section className="bg-white mb-auto flex-grow dark:bg-gray-900">
             <div className="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
@@ -23,13 +29,15 @@ export default function Resources() {
                         web development.
                     </p>
                     <div className="mt-3 flex flex-wrap gap-2">
+                        <Tag name={'All'} currentTag={currentTag} onCurrentTag={handleCurrentTag}/>
                         {TAGS_LIST.map((tag) => (
-                            <Tag key={tag} name={tag} />
+                            <Tag key={tag} name={tag} currentTag={currentTag} onCurrentTag={handleCurrentTag}/>
                         ))}
                     </div>
                 </div>
                 <div className="space-y-8 md:grid md:grid-cols-2 lg:grid-cols-3 md:gap-12 md:space-y-0">
-                    {resources.map((resource, index) => (
+                    {resources.filter((resource)=> resource.tags.includes(currentTag) || currentTag === 'All')
+                    .map((resource, index) => (
                         <div
                             key={Math.random(index)}
                             className="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700"
@@ -60,7 +68,7 @@ export default function Resources() {
                                 </p>
                                 <div className="mb-3 flex flex-wrap gap-2">
                                     {resource.tags.map((tag) => (
-                                        <Tag key={tag} name={tag} />
+                                        <Tag key={tag} name={tag} currentTag={currentTag} onCurrentTag={handleCurrentTag}/>
                                     ))}
                                 </div>
                                 <a
