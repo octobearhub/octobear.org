@@ -36,7 +36,7 @@ export default function Resources() {
                     </div>
                 </div>
                 <div className="space-y-8 md:grid md:grid-cols-2 lg:grid-cols-3 md:gap-12 md:space-y-0">
-                    {resources.filter((resource)=> resource.tags.includes(currentTag))
+                    {resources.filter((resource)=> resource.tags.includes(currentTag) || currentTag === 'All')
                     .map((resource, index) => (
                         <div
                             key={Math.random(index)}
