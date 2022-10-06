@@ -122,5 +122,32 @@
         "description": "An easy and free way to track the analytics of your project or website.",
         "url": "https://analytics.google.com/analytics/web/#/",
         "tags": ["analytics", "visitors", "metrics", "tracker"]
+    },
+    {
+      "title": "Heroicons",
+      "description": "Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.",
+      "url": "https://heroicons.com/",
+      "tags": ["icons", "SVG"],
+      "image": "https://user-images.githubusercontent.com/70046023/194186640-f920b757-7edf-4db6-8f00-7178310a493e.jpg"
+    },
+    {
+      "title": "Iconic",
+      "description": "Free, “do wtf you want with” pixel-perfect icons.",
+      "url": "https://iconic.app/",
+      "tags": ["icons", "SVG"]
+    },
+    {
+      "title": "FontAwesome",
+      "description": "Font Awesome is the Internet's icon library and toolkit, used by millions of designers, developers, and content creators.",
+      "url": "https://fontawesome.com/",
+      "tags": ["icons", "SVG"],
+      "image": "https://user-images.githubusercontent.com/70046023/194186932-78bc2166-c688-4da9-b9ed-2adc5477e062.png"
+    },
+    {
+      "title": "Google Fonts Icons",
+      "description": "Material Icons are available in five styles and a range of downloadable sizes and densities. The icons are based on the core Material Design principles and metrics.",
+      "url": "https://fonts.google.com/icons?selected=Material+Icons",
+      "tags": ["icons", "SVG"],
+      "image": "https://user-images.githubusercontent.com/70046023/194187254-cf29ddcb-afb6-44a6-a1d3-3c4152b26893.png"
     }
 ]
