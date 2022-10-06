@@ -74,8 +74,6 @@ export default function Footer() {
                             />
                         </svg>
                     </a>
-
-
                 </p>
                 <div className="text-sm text-gray-500 sm:text-center dark:text-gray-400 ">
                     © {`${new Date().getFullYear()} `}
@@ -85,7 +83,6 @@ export default function Footer() {
                     All Rights Reserved.
                 </div>
             </div>
-
         </footer>
     )
 }
