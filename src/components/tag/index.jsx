@@ -15,6 +15,8 @@ function Tag({ name, currentTag, onCurrentTag }) {
 
 Tag.propTypes = {
     name: PropTypes.string.isRequired,
+    currentTag: PropTypes.string.isRequired,
+    onCurrentTag: PropTypes.func.isRequired,
 }
 
 export default Tag

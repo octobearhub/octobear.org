@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-no-bind */
 import React, { useState } from "react"
 import Image from "next/image"
 import Link from "next/link"
@@ -29,7 +30,7 @@ export default function Resources() {
                         web development.
                     </p>
                     <div className="mt-3 flex flex-wrap gap-2">
-                        <Tag name={'All'} currentTag={currentTag} onCurrentTag={handleCurrentTag}/>
+                        <Tag name='All' currentTag={currentTag} onCurrentTag={handleCurrentTag}/>
                         {TAGS_LIST.map((tag) => (
                             <Tag key={tag} name={tag} currentTag={currentTag} onCurrentTag={handleCurrentTag}/>
                         ))}
