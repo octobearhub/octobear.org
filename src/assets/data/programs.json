@@ -25,4 +25,10 @@
         "url": "https://www.dotnetconf.net/",
         "end_date": "2022-11-10"
     }
+    {"title":"Google Season of Docs",
+    "description":"The GSoD program supports improved open source documentation and provides opportunities for skilled technical writers to gain experience with open source."
+    "url":"https://developers.google.com/season-of-docs",
+    "end_date":"Deadline for organsation application is 2022-03-25.",
+    }
 ]
+
