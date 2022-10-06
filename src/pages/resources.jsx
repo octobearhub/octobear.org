@@ -29,14 +29,15 @@ export default function Resources() {
                         web development.
                     </p>
                     <div className="mt-3 flex flex-wrap gap-2">
-                        <Tag name={'All'} currentTag={currentTag}/>
+                        <Tag name={'All'} currentTag={currentTag} onCurrentTag={handleCurrentTag}/>
                         {TAGS_LIST.map((tag) => (
                             <Tag key={tag} name={tag} currentTag={currentTag} onCurrentTag={handleCurrentTag}/>
                         ))}
                     </div>
                 </div>
                 <div className="space-y-8 md:grid md:grid-cols-2 lg:grid-cols-3 md:gap-12 md:space-y-0">
-                    {resources.map((resource, index) => (
+                    {resources.filter((resource)=> resource.tags.includes(currentTag))
+                    .map((resource, index) => (
                         <div
                             key={Math.random(index)}
                             className="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700"
