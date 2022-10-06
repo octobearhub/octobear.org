@@ -9,7 +9,7 @@ Whenever you're sharing a resource, or a community event, there is an option to 
         "image": "https://user-images.githubusercontent.com/78233115/194045366-942e7379-92ba-4625-9048-939e4bba434c.png",
         "description": "The Outreachy program is a really great program for students that aims to support diversity in open source and open science. Outreachy provides internships to people subject to systemic bias and impacted by underrepresentation in the technical industry where they are living.",
         "url": "https://www.outreachy.org/",
-        "end_date": "Application will open in early February-2023 and will end in late February-2023"
+        "end_date": "2023-02-25"
     }
 ```
 
