@@ -7,6 +7,12 @@
         "tags": ["design", "ilustration"]
     },
     {
+        "title": "Iconic Pack",
+        "description": "Pixel-perfect icons that you can do whatever you want with.",
+        "url": "https://iconic.app/",
+        "tags": ["icons", "SVG"]
+    },
+    {
         "title": "Mega Doodles Pack",
         "image": "https://user-images.githubusercontent.com/43012757/193366196-d384f20a-4905-462a-b86f-e3845dd507b5.png",
         "description": "Open-source illustrations for every project you can imagine and create.",
