@@ -24,10 +24,11 @@
         "description": "Free three-day .NET virtual developer conference with major releases of the .NET Development platform. November 8 – 10 at 8:00 AM PDT",
         "url": "https://www.dotnetconf.net/",
         "end_date": "2022-11-10"
-    }
-    {"title": "Google Season of Docs",
-    "description": "Through Season of Docs, Google awards grants to open source projects and organizations to hire technical writers to work on documentation projects.",
-    "url": "https://developers.google.com/season-of-docs",
-    "date": "Applications will begin on February 3,2023 and ends on March 25,2023",
     },
+    {
+        "title": "Google Season of Docs",
+        "description": "Through Season of Docs, Google awards grants to open source projects and organizations to hire technical writers to work on documentation projects.",
+        "url": "https://developers.google.com/season-of-docs",
+        "date": "Applications will begin on February 3,2023 and ends on March 25,2023"
+    }
 ]
