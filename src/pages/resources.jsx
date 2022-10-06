@@ -23,6 +23,7 @@ export default function Resources() {
                         web development.
                     </p>
                     <div className="mt-3 flex flex-wrap gap-2">
+                        <Tag name={'All'}/>
                         {TAGS_LIST.map((tag) => (
                             <Tag key={tag} name={tag} />
                         ))}
