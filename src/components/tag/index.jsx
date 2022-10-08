@@ -16,6 +16,7 @@ function Tag({ name, currentTag, onCurrentTag }) {
                     ? "dark:bg-purple-200 dark:text-purple-800"
                     : "dark:bg-transparent"
                 } dark:border-purple-400 dark:text-purple-200 dark:hover:bg-purple-200 dark:hover:text-purple-800`}
+
         >
             <small className="text-sm uppercase">{name}</small>
         </button>
