@@ -1,23 +1,59 @@
 [
-  {
-    "title": "Hacktoberfest 2022",
-    "image": "https://user-images.githubusercontent.com/43012757/193366195-c23979e1-60fd-4195-95e3-b0372f8a3c75.png",
-    "description": "Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio. Hacktoberfest is open to everyone in our global community!",
-    "url": "https://hacktoberfest.digitalocean.com/",
-    "end_date": "2022-10-31"
-  },
-  {
-    "title": "NDC London",
-    "image": "../../public/images/ndc_london.jpg",
-    "description": "Since its start-up in Oslo 2008, the Norwegian Developers Conference (NDC) quickly became one of Europe`s largest conferences for .NET & Agile development. Today NDC Conferences are 5-day events with 2 days of pre-conference workshops and 3 days of conference sessions.",
-    "url": "https://ndclondon.com/",
-    "end_date": "2023-01-27"
-  },
-  {
-    "title": "ICSDMD 2023: 17. International Conference on System Development Methodology and Design",
-    "image": "../../public/images/ICSDMD.jpg",
-    "description": "The International Research Conference is a federated organization dedicated to bringing together a significant number of diverse scholarly events for presentation within the conference program. Events will run over a span of time during the conference depending on the number and length of the presentations. With its high quality, it provides an exceptional value for students, academics and industry researchers.",
-    "url": "https://waset.org/system-development-methodology-and-design-conference-in-october-2023-in-new-york",
-    "end_date": "2023-10-08"
-  }
+    {
+        "title": "Hacktoberfest 2022",
+        "image": "https://user-images.githubusercontent.com/43012757/193366195-c23979e1-60fd-4195-95e3-b0372f8a3c75.png",
+        "description": "Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio. Hacktoberfest is open to everyone in our global community!",
+        "url": "https://hacktoberfest.digitalocean.com/",
+        "end_date": "2022-10-31"
+    },
+    {
+        "title": "MLH Fellowship 2022",
+        "image": "https://user-images.githubusercontent.com/43012757/194271876-0af4a69c-3e19-4c60-8222-b8a1610e76f8.png",
+        "description": "A fully remote, 12-week internship where participants earn a stipend and learn to collaborate on real open source projects with peers and engineers from top companies.",
+        "url": "https://fellowship.mlh.io/#programs",
+        "end_date": null
+    },
+    {
+        "title": "Outreachy 2023",
+        "image": "https://user-images.githubusercontent.com/78233115/194045366-942e7379-92ba-4625-9048-939e4bba434c.png",
+        "description": "The Outreachy program is a really great program for students that aims to support diversity in open source and open science. Outreachy provides internships to people subject to systemic bias and impacted by underrepresentation in the technical industry where they are living.",
+        "url": "https://www.outreachy.org/",
+        "end_date": "Application will open in early February-2023 and will end in late February-2023"
+    },
+    {
+        "title": "Microsoft Ignite",
+        "description": "Latest innovations, learn, level up your skillset and create connections frm around the world. October 12 – 14 at 9:00 AM PDT",
+        "url": "https://ignite.microsoft.com/",
+        "end_date": "2022-10-14"
+    },
+    {
+        "title": ".NET Conf",
+        "description": "Free three-day .NET virtual developer conference with major releases of the .NET Development platform. November 8 – 10 at 8:00 AM PDT",
+        "url": "https://www.dotnetconf.net/",
+        "end_date": "2022-11-10"
+    },
+    {
+        "title": "Google Season of Docs",
+        "description": "Through Season of Docs, Google awards grants to open source projects and organizations to hire technical writers to work on documentation projects.",
+        "url": "https://developers.google.com/season-of-docs",
+        "end_date": "2023-03-25"
+    },
+    {
+        "title": "WebConf Latam",
+        "description": "SINCE 2018 we are organizing this development-oriented conference web, with the idea that lecturers from Spanish speaking can expose about new technologies and transmit their community experience. Starting November 18.",
+        "url": "https://webconf.tech/",
+        "end_date": "2022-11-18"
+    },
+    {
+      "title": "NDC London",
+      "description": "Since its start-up in Oslo 2008, the Norwegian Developers Conference (NDC) quickly became one of Europe`s largest conferences for .NET & Agile development. Today NDC Conferences are 5-day events with 2 days of pre-conference workshops and 3 days of conference sessions.",
+      "url": "https://ndclondon.com/",
+      "end_date": "2023-01-27"
+    },
+    {
+      "title": "ICSDMD 2023: 17. International Conference on System Development Methodology and Design",
+      "description": "The International Research Conference is a federated organization dedicated to bringing together a significant number of diverse scholarly events for presentation within the conference program. Events will run over a span of time during the conference depending on the number and length of the presentations. With its high quality, it provides an exceptional value for students, academics and industry researchers.",
+      "url": "https://waset.org/system-development-methodology-and-design-conference-in-october-2023-in-new-york",
+      "end_date": "2023-10-08"
+    }
 ]

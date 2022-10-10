@@ -1,7 +1,7 @@
 [
-   {
+    {
         "title": "Face detection Program",
-        "description" : "In this beginner’s project, we will learn how to implement real-time human face recognition. We will build this project in Python using OpenCV.",
-        "url" : "https://realpython.com/face-recognition-with-python/"
-   }
+        "description": "In this beginner’s project, we will learn how to implement real-time human face recognition. We will build this project in Python using OpenCV.",
+        "url": "https://realpython.com/face-recognition-with-python/"
+    }
 ]
