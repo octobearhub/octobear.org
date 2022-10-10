@@ -45,6 +45,24 @@
         "end_date": "2022-11-18"
     },
     {
+        "title": "Web Summit",
+        "description": "Politico said we run “the world’s premier tech conference”, the Atlantic that Web Summit is “where the future goes to be born”, and Reuters that we assemble “the biggest names in tech and business”.",
+        "url": "https://websummit.com/rio/",
+        "end_date": "2023-05-01"
+    },
+    {
+        "title": "SÃO PAULO TECH WEEK",
+        "description": "Through a fully dynamic event, SPTW will be 100% online and will bring a totally innovative approach, where each member will be able to generate qualified connections for their business not only during the lecture week, but also throughout the year.",
+        "url": "https://saopaulotechweek.com.br/",
+        "end_date": "2023-05-01"
+    },
+    {
+        "title": "EXPOTEC ",
+        "description": "Considered the largest technology showcase in the Northeast region, Expotec - Technology Fair and Congress is going to its 8th edition this year. With the theme 'Free, neutral and global Internet', the event will be held from November 23 to 25, at the João Pessoa Convention Center, with the support of the Internet Management Committee in Brazil (CGI.br/NIC.br) .",
+        "url": "https://www.expotec.org.br/2022/",
+        "end_date": "2023-05-01"
+     },
+     {
       "title": "NDC London",
       "description": "Since its start-up in Oslo 2008, the Norwegian Developers Conference (NDC) quickly became one of Europe`s largest conferences for .NET & Agile development. Today NDC Conferences are 5-day events with 2 days of pre-conference workshops and 3 days of conference sessions.",
       "url": "https://ndclondon.com/",

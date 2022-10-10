@@ -1,7 +1,8 @@
 # A tutorial on uploading Images
 
-## Where do you need to upload images? 
-Whenever you're sharing a resource, or a community event, there is an option to share an image link in the data you're uploading, which is basically a JSON object. For example, if you're adding a new event, your content may look like: 
+## Where do you need to upload images?
+
+Whenever you're sharing a resource, or a community event, there is an option to share an image link in the data you're uploading, which is basically a JSON object. For example, if you're adding a new event, your content may look like:
 
 ```
 {
@@ -13,14 +14,15 @@ Whenever you're sharing a resource, or a community event, there is an option to 
     }
 ```
 
-Look at the second field here, which requires you to add an image. 
+Look at the second field here, which requires you to add an image.
 
-## How to add an image? 
+## How to add an image?
 
-In order to add images without actually storing them in the repository, one can make use of the Github's user-images domain. Here is how you do it: 
-- Click new issue; this will open up the issue creator.
-- Drag and drop your image in the body content. 
-- Wait for upload completion and copy the URL for the image.
-- Cancel the issue creation and use the URL by pasting it as a value for the image key in the JSON data above.
+In order to add images without actually storing them in the repository, one can make use of the Github's user-images domain. Here is how you do it:
 
-Happy learning! 
+-   Click new issue; this will open up the issue creator.
+-   Drag and drop your image in the body content.
+-   Wait for upload completion and copy the URL for the image.
+-   Cancel the issue creation and use the URL by pasting it as a value for the image key in the JSON data above.
+
+Happy learning!
