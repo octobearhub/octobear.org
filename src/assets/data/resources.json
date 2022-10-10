@@ -162,5 +162,12 @@
       "url": "https://boxicons.com/",
       "tags": ["icons", "SVG"],
       "image": "https://user-images.githubusercontent.com/37544904/194783902-46768fee-73e6-41cb-b8c0-a64d22ac4ff0.png"
+    },
+     {
+      "title": "GitHub Skills",
+      "description": "Learn how to use GitHub with interactive courses designed for beginners and experts.",
+      "url": "https://skills.github.com/",
+      "tags": ["git", "github"],
+      "image": "https://user-images.githubusercontent.com/1221423/156894097-ff2d6566-7b6a-4488-950e-f4ebe990965a.svg"
     }
 ]
