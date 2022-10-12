@@ -10,7 +10,7 @@ function LayoutContainer({ children }) {
 }
 
 LayoutContainer.propTypes = {
-    children: PropTypes.elementType.isRequired,
+    children: PropTypes.node.isRequired,
 }
 
 export default LayoutContainer
