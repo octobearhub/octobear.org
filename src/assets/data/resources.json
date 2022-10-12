@@ -35,7 +35,7 @@
     {
         "title": "Build forms in your project",
         "description": "Build your forms easily with formspree. You can just set your form’s action to their endpoint and write no server code, or deploy your forms with CI/CD",
-        "url": " https://formspree.io/",
+        "url": "https://formspree.io",
         "tags": ["forms", "API"]
     },
     {
