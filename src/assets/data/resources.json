@@ -143,6 +143,12 @@
         "tags": ["icons", "SVG"]
     },
     {
+        "title": "DevDocs",
+        "description": "Free, API documentation of programming language in details.",
+        "url": "https://devdocs.io/",
+        "tags": ["web", "documentation"]
+    },
+    {
         "title": "FontAwesome",
         "description": "Font Awesome is the Internet's icon library and toolkit, used by millions of designers, developers, and content creators.",
         "url": "https://fontawesome.com/",
