@@ -73,5 +73,11 @@
       "description": "The International Research Conference is a federated organization dedicated to bringing together a significant number of diverse scholarly events for presentation within the conference program. Events will run over a span of time during the conference depending on the number and length of the presentations. With its high quality, it provides an exceptional value for students, academics and industry researchers.",
       "url": "https://waset.org/system-development-methodology-and-design-conference-in-october-2023-in-new-york",
       "end_date": "2023-10-08"
+    },
+    {
+      "title": "TestJS Summit",
+      "description": "TestJS Summit is an online event for QAs and software developers to get up to date with JS testing best practices, sharpen skills and get latest updates from top products core teams.",
+      "url": "https://testjssummit.com/",
+      "end_date": "2022-11-04"
     }
 ]
