@@ -75,7 +75,7 @@ export default function Footer() {
                         </svg>
                     </a>
                 </p>
-                <div className="text-sm text-gray-500 sm:text-center dark:text-gray-400 ">
+                <div className="text-sm text-gray-500 sm:text-center dark:text-gray-400 mb-6">
                     © {`${new Date().getFullYear()} `}
                     <Link href="/" className="hover:underline">
                         Octobear Hub.
