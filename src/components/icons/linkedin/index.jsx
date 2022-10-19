@@ -1,7 +1,7 @@
 import React from "react"
 
 export default function LinkedinIcon() {
-    return(
+    return (
         <svg
             aria-hidden="true"
             focusable="false"
