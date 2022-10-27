@@ -181,7 +181,7 @@
         "image": "https://git-scm.com/images/progit2.png",
         "description": "The guide to Git and its usage.",
         "url": "https://git-scm.com/book/en/v2",
-        "tags": ["git", "books", "documentation"]
+        "tags": ["git", "books", "documentation", "developer"]
     },
     {
         "title": "Eloquent JavaScript",
@@ -189,5 +189,12 @@
         "description": "This is a book about JavaScript, programming, and the wonders of the digital.",
         "url": "https://eloquentjavascript.net/",
         "tags": ["JavaScript", "books", "developer"]
+    },
+    {
+        "title": "GoHugo",
+        "image": "https://d33wubrfki0l68.cloudfront.net/c38c7334cc3f23585738e40334284fddcaf03d5e/2e17c/images/hugo-logo-wide.svg",
+        "description": "GoHugo is a tool to create static websites (js, html and css). It helps you to build simple websites, the most common uses are: blogs, landing pages, documentation, etc.",
+        "url": "https://gohugo.io/",
+        "tags": ["markdown", "tools", "blog"]
     }
 ]
