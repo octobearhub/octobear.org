@@ -196,5 +196,12 @@
         "description": "GoHugo is a tool to create static websites (js, html and css). It helps you to build simple websites, the most common uses are: blogs, landing pages, documentation, etc.",
         "url": "https://gohugo.io/",
         "tags": ["markdown", "tools", "blog"]
+    },
+    {
+        "title": "How to Contribute to an Open Source Project on GitHub",
+        "image": "https://egghead.io/_next/image?url=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Fplaylists%2Fsquare_covers%2F000%2F432%2F579%2Fsquare_480%2FEGH_JSopensource_final.png&w=1920&q=75",
+        "description": "A course to get started with contributing open source",
+        "url": "https://egghead.io/lessons/javascript-introduction-to-github",
+        "tags": ["git", "github", "course", "developer", "beginner"]
     }
 ]
