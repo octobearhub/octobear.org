@@ -181,10 +181,13 @@
         "image": "https://git-scm.com/images/progit2.png",
         "description": "The guide to Git and its usage.",
         "url": "https://git-scm.com/book/en/v2",
-        "tags": [
-            "git",
-            "books",
-            "documentation"
-        ]
+        "tags": ["git", "books", "documentation"]
     },
+    {
+        "title": "Eloquent JavaScript",
+        "image": "https://nostarch.com/sites/default/files/styles/uc_product_full/public/EJS3_front.png?itok=2qHtZpJa",
+        "description": "This is a book about JavaScript, programming, and the wonders of the digital.",
+        "url": "https://eloquentjavascript.net/",
+        "tags": ["JavaScript", "books", "developer"]
+    }
 ]
