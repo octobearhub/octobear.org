@@ -192,7 +192,7 @@
     },
     {
         "title": "GoHugo",
-        "image": "https://d33wubrfki0l68.cloudfront.net/c38c7334cc3f23585738e40334284fddcaf03d5e/2e17c/images/hugo-logo-wide.svg",
+        "image": "https://user-images.githubusercontent.com/68626833/198849798-9e1b8173-e36d-4e66-b49c-ef2b47363b24.png",
         "description": "GoHugo is a tool to create static websites (js, html and css). It helps you to build simple websites, the most common uses are: blogs, landing pages, documentation, etc.",
         "url": "https://gohugo.io/",
         "tags": ["markdown", "tools", "blog"]
